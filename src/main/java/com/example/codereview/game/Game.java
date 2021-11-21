@@ -58,8 +58,7 @@ public class Game {
 
     private void thinkOfNumber() {
         Random rand = new Random();
-       // number = rand.nextInt(1000); TODO change back
-        number = 450;
+        number = rand.nextInt(1000);
     }
 
     private void startRound() {
