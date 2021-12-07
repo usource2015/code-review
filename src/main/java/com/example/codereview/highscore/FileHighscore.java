@@ -14,7 +14,7 @@ public class FileHighscore {
     private final String highscoreFile;
 
     public FileHighscore() {
-        this("src/main/java/com/example/codereview/highscore/highscore.txt");
+        this("Java/src/main/java/com/example/codereview/highscore/highscore.txt");
     }
 
     public FileHighscore(String highscoreFile) {
