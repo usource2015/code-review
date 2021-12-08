@@ -1,0 +1,14 @@
+Rules.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/Java/.mvn/wrapper/maven-wrapper.jar
+Java/.mvn/wrapper
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
